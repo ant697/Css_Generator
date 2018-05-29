@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e67bab-2626-43d9-9e40-4e3b6c2a5e99" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Css_Generator.php" beforeDir="false" afterPath="$PROJECT_DIR$/Css_Generator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprite.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,17 +19,55 @@
       <file leaf-file-name="Css_Generator.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Css_Generator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="48" column="53" lean-forward="true" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+            <state relative-caret-position="158">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Banana.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Banana.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="chrome.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chrome.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="Facebook.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="img2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img2.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="MyGitLight.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Piscine_PHP_Rush_3/MyGitLight.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="37" column="24" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="24" />
+            <state relative-caret-position="63">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_untar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/my_untar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-53">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -36,6 +77,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>fope</find>
+      <find>STDIN</find>
+      <find>add_op</find>
+      <find>rege</find>
+      <find>style_sheet</find>
+      <find>echo</find>
+      <find>var</find>
+      <find>name_newImage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -44,6 +92,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/img dossier 1/test.php" />
+        <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/Css_Generator.php" />
       </list>
     </option>
@@ -58,8 +108,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="722" />
-    <option name="width" value="718" />
+    <option name="x" value="1276" />
+    <option name="width" value="164" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectView">
@@ -74,6 +124,11 @@
               <item name="Css_Generator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Css_Generator" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Css_Generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Css_Generator" type="462c0819:PsiDirectoryNode" />
+              <item name="img dossier 1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,6 +141,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,16 +169,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527497399066</updated>
-      <workItem from="1527497400272" duration="22547000" />
+      <workItem from="1527497400272" duration="45462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22547000" />
+    <option name="totallyTimeSpent" value="45462000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="0" width="759" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="508" y="0" width="932" height="900" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Regex Tester" weight="0.32932693" />
@@ -127,7 +186,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32091346" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13090129" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -159,22 +218,58 @@
     </entry>
     <entry file="file://$USER_HOME$/Piscine_PHP_Rush_3/MyGitLight.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="24" />
+        <state relative-caret-position="63">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/my_untar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Banana.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chrome.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/gd/gd.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="413" column="9" selection-start-line="413" selection-start-column="9" selection-end-line="413" selection-end-column="9" />
+        <state relative-caret-position="-623">
+          <caret line="219" column="9" selection-start-line="219" selection-start-column="9" selection-end-line="219" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Css_Generator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="48" column="53" lean-forward="true" selection-start-line="48" selection-start-column="53" selection-end-line="48" selection-end-column="53" />
+        <state relative-caret-position="158">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
