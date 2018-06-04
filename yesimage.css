@@ -1,32 +1,24 @@
-.dede {
-   width: 9988px; height: 512px;
-   background: url('dede.png') -0px -0px;
-}
 .Mario {
    width: 512px; height: 512px;
-   background: url('dede.png') -9988px -0px;
-}
-.sprite {
-   width: 2753px; height: 512px;
-   background: url('dede.png') -10500px -0px;
+   background: url('dede.png') -0px -0px;
 }
 .chrome {
    width: 512px; height: 512px;
-   background: url('dede.png') -13253px -0px;
+   background: url('dede.png') -512px -0px;
 }
 .img2 {
    width: 305px; height: 314px;
-   background: url('dede.png') -13765px -0px;
+   background: url('dede.png') -1024px -0px;
 }
 .Banana {
    width: 400px; height: 265px;
-   background: url('dede.png') -14070px -0px;
+   background: url('dede.png') -1329px -0px;
 }
 .Facebook {
    width: 512px; height: 512px;
-   background: url('dede.png') -14470px -0px;
+   background: url('dede.png') -1729px -0px;
 }
-.pumba {
-   width: 512px; height: 512px;
-   background: url('dede.png') -14982px -0px;
+.eye {
+   width: 894px; height: 894px;
+   background: url('dede.png') -2241px -0px;
 }
